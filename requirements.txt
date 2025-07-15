@@ -1,0 +1,6 @@
+dbt-snowflake
+apache-airflow
+pandas
+snowflake-connector-python
+prophet
+streamlit
