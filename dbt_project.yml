@@ -1,0 +1,12 @@
+name: 'retail_sales'
+version: '1.0'
+config-version: 2
+
+profile: 'retail_sales'
+
+model-paths: ["models"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
